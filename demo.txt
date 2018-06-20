@@ -3,3 +3,5 @@ Dave was here
 Really he was
 
 Kittens rule!!
+
+Woo JavaScript!!
